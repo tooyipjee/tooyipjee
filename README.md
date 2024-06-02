@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/tooyipjee/tooyipjee/blob/main/Jason%20Too.gif" alt="Jason Too" />
+  <img src="https://github.com/tooyipjee/tooyipjee/blob/main/Jason%20Too.gif" alt="Jason Too" width="75%" />
 </h1>
 
 ## Hey! 👋
@@ -26,9 +26,3 @@ I'm Jason, an Information & Computer Engineer based in Cambridge, UK.
 ## Contact
 - [elektroThing](http://elektrothing.com/)
 - [@JasonToo](https://www.linkedin.com/in/jason-too/) on LinkedIn
-
----
-
-**Jason Too**  
-
----
