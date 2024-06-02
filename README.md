@@ -2,7 +2,7 @@
   <img src="https://github.com/tooyipjee/tooyipjee/blob/main/Jason%20Too.gif" alt="Jason Too" width="50%" />
 </h1>
 
-## Hey! 👋
+Hey! 👋
 I'm Jason, an Information & Computer Engineer based in Cambridge, UK.
 
 - 🦔 Founder of [elektroThing](http://elektrothing.com/)
@@ -19,9 +19,13 @@ I'm Jason, an Information & Computer Engineer based in Cambridge, UK.
 | **Product Development & Commercialization** | Innovation doesn’t stop at development. I manage full product lifecycles, from concept through to market launch. This includes not only technical development but also effective marketing strategies and successful crowdfunding campaigns. | ![Product Development](https://media.giphy.com/media/26FPOpCgx8h94nj4E/giphy.gif) |
 
 ## Skills
-- 👨‍💻 Deep Learning, Computer Vision, Embedded Systems Design, Product Development, IoT Solutions
-- ⚙️ Machine Learning Algorithms, Sensor Fusion, Signal Processing
-- 👁️ Hardware Design, Firmware Implementation, System Optimization
+- 👨‍💻 Programming: PyTorch, C, C++, Python
+- ⚙️ Machine Learning: YOLOv3, Inception, RetinaNet, Edge Impulse, TinyML
+- 👁️ Hardware: PCB Design, FPGA (Spartan 6), Arduino, Micro-controllers
+- 💻 Tools: GTKWave, Verilog, Testbench
+- 📈 Data Science: Data Processing, Signal Processing
+- 💡 AI/ML: Computer Vision, Deep Learning, Generative AI
+- 📊 Business: Business Ownership, Start-up Leadership, Product Marketing, Crowdfunding
 
 ## Contact
 - [elektroThing](http://elektrothing.com/)
