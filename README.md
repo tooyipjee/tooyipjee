@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/tooyipjee/tooyipjee/blob/main/Jason%20Too.gif" alt="Jason Too" width="75%" />
+  <img src="https://github.com/tooyipjee/tooyipjee/blob/main/Jason%20Too.gif" alt="Jason Too" width="50%" />
 </h1>
 
 ## Hey! 👋
