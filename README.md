@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <img src="https://github.com/tooyipjee/tooyipjee/blob/main/Jason%20Too.gif" alt="Jason Too" width="50%" />
 </h1>
 
@@ -9,7 +9,9 @@ I'm Jason, an Information & Computer Engineer based in Cambridge, UK.
 - 👨‍💻 Specializing in embedded systems, computer vision, and AI/ML
 - 🧭 Developing IoT-enabled and Edge ML solutions
 - 👥 Innovating in AI and electronics products
+  
 <img src="https://myreadme.vercel.app/api/embed/tooyipjee?panels=toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 ## What I Work On
 
 | **Area** | **Description** |
