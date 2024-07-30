@@ -5,7 +5,7 @@
 Hey! 👋
 I'm Jason, an Information & Computer Engineer based in Cambridge, UK.
 
-- 🦔 Founder of [elektroThing](http://elektrothing.com/)
+- 🦔 Founder of [elektroThing](http://elektrothing.com/) & Associate at [Cambridge Design Partnership](https://www.cambridge-design.com/)
 - 👨‍💻 Specializing in embedded systems, computer vision, and AI/ML
 - 🧭 Developing IoT-enabled and Edge ML solutions
 - 👥 Innovating in AI and electronics products
