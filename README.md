@@ -8,7 +8,6 @@ I'm Jason, an Information & Computer Engineer in Cambridge, UK.
 - 🦔 Founder of [elektroThing](http://elektrothing.com/)
 - 👨‍💻 Machine Learning Engineer at [Roku](https://www.roku.com/en-gb/)
 - 🛠️ Experienced in embedded systems (Edge ML & IoT), computer vision, and AI/ML
-- ⌛ ex-[Sagentia](https://www.sagentiainnovation.com/) | ex-[CDP](https://www.cambridge-design.com/)
   
 <img src="https://myreadme.vercel.app/api/embed/tooyipjee?panels=toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
