@@ -9,7 +9,7 @@ I'm Jason, an Information & Computer Engineer in Cambridge, UK.
 - 👨‍💻 Machine Learning Engineer at [Roku](https://www.roku.com/en-gb/)
 - 🛠️ Experienced in embedded systems (Edge ML & IoT), computer vision, and AI/ML
   
-<img src="https://myreadme.vercel.app/api/embed/tooyipjee?panels=toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-stats.vercel.app/api?username=tooyipjee" alt="reimaginedreadme" />
 
 ## What I Work On
 
