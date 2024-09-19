@@ -11,14 +11,11 @@ I'm an Information and Computer Engineer based in Cambridge, UK, with a passion 
 
 <table style="border: none;">
   <tr style="border: none;">
-    <td valign="top" width="30%" style="border: none;">
+    <td valign="top" width="50%" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=tooyipjee&hide_rank=true&show_icons=true&theme=radical" alt="Tooyipjee's GitHub stats" />
     </td>
-    <td valign="top" width="30%" style="border: none;">
+    <td valign="top" width="50%" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooyipjee&layout=compact&theme=radical" alt="Top Langs" />
-    </td>
-    <td valign="top" width="40%" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tooyipjee&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
