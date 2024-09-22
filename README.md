@@ -3,32 +3,73 @@
 </h1>
 
 ## 🚀 About Me
+
 I'm an Information and Computer Engineer based in Cambridge, UK, with a passion for innovative solutions in embedded systems, computer vision, and machine learning. With experience ranging from startups to established tech companies, I specialize in developing cutting-edge technologies that bridge the gap between hardware and AI. My work spans from designing IoT devices to implementing advanced ML models, always with a focus on practical, market-ready solutions.
 
 - 🦔 Founder of [elektroThing](http://elektrothing.com/)
 - 👨‍💻 Software Engineer, Edge ML at [Roku](https://www.roku.com/en-gb/)
 - 🎓 MEng from University of Cambridge
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td valign="top" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=tooyipjee&hide_rank=true&show_icons=true&theme=radical" alt="Tooyipjee's GitHub stats" />
+## 🛠️ What I Work On
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🌐 Embedded Systems & IoT</h3>
     </td>
-    <td valign="top" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooyipjee&layout=compact&theme=radical" alt="Top Langs" />
+    <td width="33%" align="center">
+      <h3>👁️ AI & Computer Vision</h3>
+    </td>
+    <td width="33%" align="center">
+      <h3>🚀 Product Development</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.elektrothing.com/-_-/res/a578c7e3-502f-4610-a94f-c5426e7d5fc5/images/files/a578c7e3-502f-4610-a94f-c5426e7d5fc5/ffcdb339-32f1-4f51-bf50-8d892c52a9a8/768-768/3114e4ba2afc25cf07e1a38f0f2714ab00a2052e" width="100" height="100">
+    </td>
+    <td align="center">
+      <img src="https://hackaday.com/wp-content/uploads/2022/03/hadimg_tracer_io_thumb_2.jpg?w=600&h=600" width="100" height="100">
+    </td>
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/D4E10AQExZyRCO-4izA/image-shrink_800/0/1708690861410?e=2147483647&v=beta&t=ZUlTiV8OO2LdkteSTI1kiTZJuFKzAaHkSsuHap6jW_Q" width="100" height="100">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        My expertise spans hardware<br>
+        conceptualization and efficient<br>
+        firmware creation. Building<br>
+        robust, intelligent systems<br>
+        drives my passion for shaping<br>
+        the future of embedded tech.
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        From training sophisticated<br>
+        models to deploying AI at the<br>
+        edge, my work pushes boundaries.<br>
+        Applying computer vision across<br>
+        various industries is where<br>
+        a keen interest of mine.
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        Integrating technical development<br>
+        with strategic marketing, I guide<br>
+        innovations to market. Experience<br>
+        in successful crowdfunding and<br>
+        bringing products to commercial<br>
+        fruition.
+      </p>
     </td>
   </tr>
 </table>
 
-## 🛠️ What I Work On
-
-| **Area** | **Description** |
-| --- | --- |
-| **Embedded Systems & IoT** | I develop IoT-enabled and Edge ML solutions, creating smart devices that integrate seamlessly into our daily lives. From designing hardware to implementing efficient firmware, my focus is on delivering reliable and robust systems. |
-| **Deep Learning & Computer Vision** | Working with deep learning models, I bring advanced computer vision capabilities to various applications. Whether it's object detection, image classification, or sensor fusion, I strive to harness the power of AI to solve complex problems. |
-| **Product Development & Commercialization** | Innovation doesn't stop at development. I manage full product lifecycles, from concept through to market launch. This includes not only technical development but also effective marketing strategies and successful crowdfunding campaigns. |
-
-## 🚀 Skills
+## 🛠️ Skills & Expertise
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,22 +80,14 @@ I'm an Information and Computer Engineer based in Cambridge, UK, with a passion 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🧠 **Machine Learning**: YOLOv3, Inception, RetinaNet, Edge Impulse, TinyML
-- 🔧 **Hardware**: PCB Design, FPGA (Spartan 6), Micro-controllers
-- 🖥️ **Tools**: GTKWave, Verilog, Testbench
-- 📊 **Data Science**: Data Processing, Signal Processing
-- 💡 **AI/ML**: Computer Vision, Deep Learning, Generative AI
-- 📈 **Business**: Business Ownership, Start-up Leadership, Product Marketing, Crowdfunding
+- 🧠 **AI & ML:** OpenCV, TensorRT, Gen AI Development
+- 🔌 **Embedded:** STM32, ESP32, FreeRTOS, LoRaWAN
+- 🖥️ **Software:** Docker, CI/CD
+- 🔧 **Hardware:** KiCad, Altium, Fusion 360, 3D Printing
+- 📊 **Data Science:** Pandas, NumPy, SciPy, Scikit-learn
+- 🚀 **Product Development:** Agile, Scrum, Lean, Crowdfunding
 
-## 🌐 Connect with Me
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-too/)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://elektrothing.com/)
-
-## 📚 Languages
-
-- 🇬🇧 English (Native)
-- 🇲🇾 Malay (Native)
-- 🇨🇳 Mandarin (Limited Working)
-- 🇭🇰 Cantonese (Elementary)
-- 🇫🇷 French (Elementary)
