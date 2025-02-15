@@ -15,7 +15,7 @@ I'm an Information and Computer Engineer based in Cambridge, UK, with a passion 
 
 | Skill | Description |
 |:---:|---|
-| 🌐 Embedded Systems & IoT<br><img src="https://www.elektrothing.com/-_-/res/a578c7e3-502f-4610-a94f-c5426e7d5fc5/images/files/a578c7e3-502f-4610-a94f-c5426e7d5fc5/ffcdb339-32f1-4f51-bf50-8d892c52a9a8/768-768/3114e4ba2afc25cf07e1a38f0f2714ab00a2052e" width="150" height="150"> | My expertise spans hardware conceptualization and efficient firmware creation. Building robust, intelligent systems drives my passion for shaping the future of embedded tech. |
+| 🌐 Embedded Systems & IoT<br><img src="https://elektrothing.uk/_next/image?url=%2Fspark_analyzer.png&w=1200&q=75" width="150" height="150"> | My expertise spans hardware conceptualization and efficient firmware creation. Building robust, intelligent systems drives my passion for shaping the future of embedded tech. |
 | 👁️ AI & Computer Vision<br><img src="https://hackaday.com/wp-content/uploads/2022/03/hadimg_tracer_io_thumb_2.jpg?w=600&h=600" width="150" height="150"> | From training sophisticated models to deploying AI at the edge, my work pushes boundaries. Applying computer vision across various industries is where a keen interest of mine. |
 | 🚀 Product Development<br><img src="https://media.licdn.com/dms/image/D4E10AQExZyRCO-4izA/image-shrink_800/0/1708690861410?e=2147483647&v=beta&t=ZUlTiV8OO2LdkteSTI1kiTZJuFKzAaHkSsuHap6jW_Q" width="150" height="150"> | Integrating technical development with strategic marketing, I guide innovations to market. Experience in successful crowdfunding and bringing products to commercial fruition. |
 
