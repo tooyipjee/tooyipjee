@@ -7,7 +7,7 @@
 I'm an Information and Computer Engineer based in Cambridge, UK, with a passion for innovative solutions in embedded systems, computer vision, and machine learning. With experience ranging from startups to established tech companies, I specialize in developing cutting-edge technologies that bridge the gap between hardware and AI. My work spans from designing IoT devices to implementing advanced ML models, always with a focus on practical, market-ready solutions.
 
 - 🦔 Founder of [elektroThing](http://elektrothing.com/)
-- 👨‍💻 Software Engineer, Edge ML at [Roku](https://www.roku.com/en-gb/)
+- 👨‍💻 Software Engineer
 - 🎓 MEng from University of Cambridge
 
 ## 🛠️ What I Work On
