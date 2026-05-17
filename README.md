@@ -6,15 +6,15 @@
 
 # Jason Too
 
-Hardware, software, and ML products built from the ground up.
+I build hardware, software, and ML products from the ground up.
 
-I'm an Information and Computer Engineer based in Cambridge, UK. I build across PCB design, firmware, desktop apps, developer tools, and edge AI systems, with a focus on practical products that are understandable enough for other people to inspect, use, and extend.
+I'm an Information and Computer Engineer based in Cambridge, UK. My work moves between PCB design, firmware, desktop apps, developer tools, and edge AI systems. I like projects where the hardware constraints shape the software, and where the software makes the hardware easier to inspect, debug, and use.
 
 - Founder of [elektroThing](https://elektrothing.uk)
 - MEng from the University of Cambridge
-- Building open-source hardware, local-first AI tools, and product software
+- Open-source hardware, local-first AI tools, desktop apps, and embedded systems
 
-## Featured Work
+## Hardware Projects
 
 <p>
   <a href="https://elektrothing.uk/work#spark-analyzer">
@@ -28,22 +28,44 @@ I'm an Information and Computer Engineer based in Cambridge, UK. I build across 
   </a>
 </p>
 
-**Spark Analyzer**  
-Open-source USB-C PD analyzer and programmable power supply built on ESP32-C3.
+| Project | What it is | Links |
+|:--|:--|:--|
+| **Spark Analyzer** | Open-source USB-C PD analyzer and programmable power supply built on ESP32-C3. It can set custom voltages, monitor current draw over WiFi/BLE, and help debug USB-C power behavior without guessing. | [Site](https://elektrothing.uk/work#spark-analyzer) · [GitHub](https://github.com/tooyipjee/sparkanalyzer2) |
+| **Tracer** | Ultra-low-power IMU tracker for wearables and motion sensing. Designed around long battery life, compact hardware, and TinyML-ready firmware. | [Site](https://elektrothing.uk/work#tracer) · [GitHub](https://github.com/tooyipjee/tracer2) |
+| **Plant-Bot** | Solar-powered plant monitoring and automated watering system with capacitive soil sensing, environmental monitoring, WiFi alerts, and a pump driver. | [Site](https://elektrothing.uk/work#plant-bot) · [GitHub](https://github.com/tooyipjee/plantbot2) |
+| **FLORA** | Solar ESP32 garden weather station with LoRa, soil moisture sensing, temperature/humidity monitoring, and long-range reporting for remote gardens. | [Site](https://elektrothing.uk/work#flora) |
+| **DS-Pi** | RP2040 audio DSP board with an audio codec, headphone amp, and prototyping-friendly I/O for effects and signal-processing experiments. | [Site](https://elektrothing.uk/work#ds-pi) · [GitHub](https://github.com/tooyipjee/DS-Pi) |
 
-**Tracer**  
-Ultra-low-power IMU tracker for wearable sensing and TinyML experiments.
+## Software & AI Projects
 
-**Plant-Bot**  
-Solar-powered plant monitoring with capacitive soil sensing and automated watering.
+<p>
+  <a href="https://elektrothing.uk/work#codekeep">
+    <img src="assets/codekeep.png" alt="codekeep terminal roguelike deckbuilder" width="260" />
+  </a>
+  <a href="https://elektrothing.uk/work#ollamacode">
+    <img src="assets/ollamacode.png" alt="ollamacode local AI coding CLI" width="180" />
+  </a>
+  <a href="https://elektrothing.uk/work#afkode">
+    <img src="assets/afkode.jpg" alt="afkode terminal overlay" width="260" />
+  </a>
+</p>
 
-## What I Work On
+| Project | What it is | Links |
+|:--|:--|:--|
+| **codekeep** | Terminal roguelike deckbuilder built with Ink/React. It reads local git history and turns development activity into game state. | [Site](https://elektrothing.uk/work#codekeep) · [GitHub](https://github.com/tooyipjee/codekeep) |
+| **ollamacode** | Offline AI coding CLI powered by Ollama. It can work with files and commands directly without cloud API keys. | [Site](https://elektrothing.uk/work#ollamacode) · [GitHub](https://github.com/tooyipjee/ollamacode_cli) |
+| **afkode** | Frameless terminal overlay with a global hotkey, tabs, shell configuration, and cross-platform desktop packaging. | [Site](https://elektrothing.uk/work#afkode) · [GitHub](https://github.com/tooyipjee/afkode) |
+| **dot** | Menu bar desktop pet built with Tauri v2 and Rust, with local persistence, achievements, and a small canvas UI. | [Site](https://elektrothing.uk/work#dot) · [GitHub](https://github.com/tooyipjee/dot) |
+| **Trinkt** | Social web app for sending procedurally generated art to friends, built around small private gestures rather than public metrics. | [Site](https://elektrothing.uk/work#trinkt) |
+
+## What Connects The Work
 
 | Area | Focus |
 |:--|:--|
-| Embedded systems & IoT | PCB design, firmware, low-power devices, ESP32, RP2040, STM32 |
-| AI & computer vision | Edge AI, TinyML, OpenCV, PyTorch, TensorFlow Lite |
-| Product development | Developer tools, desktop apps, crowdfunding, documentation, shipping |
+| Embedded systems | PCB design, firmware, power budgets, sensors, ESP32, RP2040, STM32 |
+| Product software | TypeScript, React, Next.js, Electron, Tauri, CLI tools, desktop workflows |
+| AI & ML | Edge AI, TinyML, OpenCV, PyTorch, TensorFlow Lite, local model tooling |
+| Product development | Documentation, crowdfunding, small-batch hardware, usable interfaces |
 
 ## Skills & Tools
 
