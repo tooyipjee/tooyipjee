@@ -1,43 +1,67 @@
 <h1 align="left">
-  <img src="https://github.com/tooyipjee/tooyipjee/blob/main/Jason%20Too.gif" alt="Jason Too" width="60%" />
+  <a href="https://elektrothing.uk">
+    <img src="assets/elektrothing-logo.png" alt="elektroThing" width="96" />
+  </a>
 </h1>
 
-## 🚀 About Me
+# Jason Too
 
-I'm an Information and Computer Engineer based in Cambridge, UK, with a passion for innovative solutions in embedded systems, computer vision, and machine learning. With experience ranging from startups to established tech companies, I specialize in developing cutting-edge technologies that bridge the gap between hardware and AI. My work spans from designing IoT devices to implementing advanced ML models, always with a focus on practical, market-ready solutions.
+Hardware, software, and ML products built from the ground up.
 
-- 🦔 Founder of [elektroThing](http://elektrothing.com/)
-- 👨‍💻 Software Engineer
-- 🎓 MEng from University of Cambridge
+I'm an Information and Computer Engineer based in Cambridge, UK. I build across PCB design, firmware, desktop apps, developer tools, and edge AI systems, with a focus on practical products that are understandable enough for other people to inspect, use, and extend.
 
-## 🛠️ What I Work On
+- Founder of [elektroThing](https://elektrothing.uk)
+- MEng from the University of Cambridge
+- Building open-source hardware, local-first AI tools, and product software
 
+## Featured Work
 
-| Skill | Description |
-|:---:|---|
-| 🌐 Embedded Systems & IoT<br><img src="https://elektrothing.uk/_next/image?url=%2Fspark_analyzer.png&w=1200&q=75" width="150" height="150"> | My expertise spans hardware conceptualization and efficient firmware creation. Building robust, intelligent systems drives my passion for shaping the future of embedded tech. |
-| 👁️ AI & Computer Vision<br><img src="https://hackaday.com/wp-content/uploads/2022/03/hadimg_tracer_io_thumb_2.jpg?w=600&h=600" width="150" height="150"> | From training sophisticated models to deploying AI at the edge, my work pushes boundaries. Applying computer vision across various industries is where a keen interest of mine. |
-| 🚀 Product Development<br><img src="https://media.licdn.com/dms/image/D4E10AQExZyRCO-4izA/image-shrink_800/0/1708690861410?e=2147483647&v=beta&t=ZUlTiV8OO2LdkteSTI1kiTZJuFKzAaHkSsuHap6jW_Q" width="150" height="150"> | Integrating technical development with strategic marketing, I guide innovations to market. Experience in successful crowdfunding and bringing products to commercial fruition. |
+<p>
+  <a href="https://elektrothing.uk/work#spark-analyzer">
+    <img src="assets/spark-analyzer.png" alt="Spark Analyzer USB-C PD analyzer" width="180" />
+  </a>
+  <a href="https://elektrothing.uk/work#tracer">
+    <img src="assets/tracer.png" alt="Tracer low-power wearable sensor board" width="180" />
+  </a>
+  <a href="https://elektrothing.uk/work#plant-bot">
+    <img src="assets/plant-bot.png" alt="Plant-Bot solar-powered plant monitoring board" width="180" />
+  </a>
+</p>
 
-## 🛠️ Skills & Expertise
+**Spark Analyzer**  
+Open-source USB-C PD analyzer and programmable power supply built on ESP32-C3.
+
+**Tracer**  
+Ultra-low-power IMU tracker for wearable sensing and TinyML experiments.
+
+**Plant-Bot**  
+Solar-powered plant monitoring with capacitive soil sensing and automated watering.
+
+## What I Work On
+
+| Area | Focus |
+|:--|:--|
+| Embedded systems & IoT | PCB design, firmware, low-power devices, ESP32, RP2040, STM32 |
+| AI & computer vision | Edge AI, TinyML, OpenCV, PyTorch, TensorFlow Lite |
+| Product development | Developer tools, desktop apps, crowdfunding, documentation, shipping |
+
+## Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🧠 **AI & ML:** OpenCV, TensorRT, Gen AI Development
-- 🔌 **Embedded:** STM32, ESP32, FreeRTOS, LoRaWAN
-- 🖥️ **Software:** Docker, CI/CD
-- 🔧 **Hardware:** KiCad, Altium, Fusion 360, 3D Printing
-- 📊 **Data Science:** Pandas, NumPy, SciPy, Scikit-learn
-- 🚀 **Product Development:** Agile, Scrum, Lean, Crowdfunding
+- **Embedded:** STM32, ESP32, FreeRTOS, LoRaWAN, BLE
+- **Hardware:** KiCad, Altium, Fusion 360, 3D printing
+- **Software:** Next.js, Electron, Tauri, Docker, CI/CD
+- **Data:** Pandas, NumPy, SciPy, scikit-learn
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-too/)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://elektrothing.com/)
+[![Website](https://img.shields.io/badge/Website-elektroThing.uk-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elektrothing.uk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jason%20Too-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-too/)
