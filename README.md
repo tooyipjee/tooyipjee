@@ -1,7 +1,8 @@
 <p align="left">
-  <a href="https://elektrothing.uk">
+  <a href="https://elektrothing.uk"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/elektrothing-logo-dark.png" />
     <img src="assets/elektrothing-logo.png" alt="elektroThing" width="96" />
-  </a>
+  </picture></a>
 </p>
 
 # Jason Too
@@ -17,21 +18,11 @@ I'm an Information and Computer Engineer based in Cambridge, UK. My work moves b
 ## Hardware Projects
 
 <p>
-  <a href="https://elektrothing.uk/work#spark-analyzer">
-    <img src="assets/spark-analyzer.jpg" alt="Spark Analyzer USB-C PD analyzer" width="180" />
-  </a>
-  <a href="https://elektrothing.uk/work#tracer">
-    <img src="assets/tracer.png" alt="Tracer low-power wearable sensor board" width="180" />
-  </a>
-  <a href="https://elektrothing.uk/work#plant-bot">
-    <img src="assets/plant-bot.png" alt="Plant-Bot solar-powered plant monitoring board" width="180" />
-  </a>
-  <a href="https://elektrothing.uk/work#flora">
-    <img src="assets/flora.png" alt="FLORA solar garden weather station" width="180" />
-  </a>
-  <a href="https://elektrothing.uk/work#ds-pi">
-    <img src="assets/ds-pi.png" alt="DS-Pi RP2040 audio DSP board" width="180" />
-  </a>
+  <a href="https://elektrothing.uk/work#spark-analyzer"><img src="assets/spark-analyzer.jpg" alt="Spark Analyzer USB-C PD analyzer" height="120" /></a>
+  <a href="https://elektrothing.uk/work#tracer"><img src="assets/tracer.png" alt="Tracer low-power wearable sensor board" height="120" /></a>
+  <a href="https://elektrothing.uk/work#plant-bot"><img src="assets/plant-bot.png" alt="Plant-Bot solar-powered plant monitoring board" height="120" /></a>
+  <a href="https://elektrothing.uk/work#flora"><img src="assets/flora.png" alt="FLORA solar garden weather station" height="120" /></a>
+  <a href="https://elektrothing.uk/work#ds-pi"><img src="assets/ds-pi.png" alt="DS-Pi RP2040 audio DSP board" height="120" /></a>
 </p>
 
 | Project | What it is | Links |
@@ -45,21 +36,11 @@ I'm an Information and Computer Engineer based in Cambridge, UK. My work moves b
 ## Software & AI Projects
 
 <p>
-  <a href="https://elektrothing.uk/work#codekeep">
-    <img src="assets/codekeep.png" alt="codekeep terminal roguelike deckbuilder" width="260" />
-  </a>
-  <a href="https://elektrothing.uk/work#ollamacode">
-    <img src="assets/ollamacode.png" alt="ollamacode local AI coding CLI" width="124" />
-  </a>
-  <a href="https://elektrothing.uk/work#afkode">
-    <img src="assets/afkode.jpg" alt="afkode terminal overlay" width="260" />
-  </a>
-  <a href="https://elektrothing.uk/work#dot">
-    <img src="assets/dot.jpg" alt="dot menu bar desktop pet" width="260" />
-  </a>
-  <a href="https://elektrothing.uk/work#trinkt">
-    <img src="assets/trinkt.jpg" alt="Trinkt generative art gifting app" width="260" />
-  </a>
+  <a href="https://elektrothing.uk/work#codekeep"><img src="assets/codekeep.png" alt="codekeep terminal roguelike deckbuilder" height="95" /></a>
+  <a href="https://elektrothing.uk/work#ollamacode"><img src="assets/ollamacode.png" alt="ollamacode local AI coding CLI" height="95" /></a>
+  <a href="https://elektrothing.uk/work#afkode"><img src="assets/afkode.jpg" alt="afkode terminal overlay" height="95" /></a>
+  <a href="https://elektrothing.uk/work#dot"><img src="assets/dot.jpg" alt="dot menu bar desktop pet" height="95" /></a>
+  <a href="https://elektrothing.uk/work#trinkt"><img src="assets/trinkt.jpg" alt="Trinkt generative art gifting app" height="95" /></a>
 </p>
 
 | Project | What it is | Links |
