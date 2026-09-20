@@ -18,19 +18,19 @@ I'm an Information and Computer Engineer based in Cambridge, UK. My work moves b
 
 <p>
   <a href="https://elektrothing.uk/work#spark-analyzer">
-    <img src="assets/spark-analyzer.jpg" alt="Spark Analyzer USB-C PD analyzer" width="180" />
+    <img src="assets/spark-analyzer.jpg" alt="Spark Analyzer USB-C PD analyzer" height="150" />
   </a>
   <a href="https://elektrothing.uk/work#tracer">
-    <img src="assets/tracer.png" alt="Tracer low-power wearable sensor board" width="180" />
+    <img src="assets/tracer.png" alt="Tracer low-power wearable sensor board" height="150" />
   </a>
   <a href="https://elektrothing.uk/work#plant-bot">
-    <img src="assets/plant-bot.png" alt="Plant-Bot solar-powered plant monitoring board" width="180" />
+    <img src="assets/plant-bot.png" alt="Plant-Bot solar-powered plant monitoring board" height="150" />
   </a>
   <a href="https://elektrothing.uk/work#flora">
-    <img src="assets/flora.png" alt="FLORA solar garden weather station" width="180" />
+    <img src="assets/flora.png" alt="FLORA solar garden weather station" height="150" />
   </a>
   <a href="https://elektrothing.uk/work#ds-pi">
-    <img src="assets/ds-pi.png" alt="DS-Pi RP2040 audio DSP board" width="180" />
+    <img src="assets/ds-pi.png" alt="DS-Pi RP2040 audio DSP board" height="150" />
   </a>
 </p>
 
@@ -46,19 +46,19 @@ I'm an Information and Computer Engineer based in Cambridge, UK. My work moves b
 
 <p>
   <a href="https://elektrothing.uk/work#codekeep">
-    <img src="assets/codekeep.png" alt="codekeep terminal roguelike deckbuilder" width="260" />
+    <img src="assets/codekeep.png" alt="codekeep terminal roguelike deckbuilder" height="150" />
   </a>
   <a href="https://elektrothing.uk/work#ollamacode">
-    <img src="assets/ollamacode.png" alt="ollamacode local AI coding CLI" width="124" />
+    <img src="assets/ollamacode.png" alt="ollamacode local AI coding CLI" height="150" />
   </a>
   <a href="https://elektrothing.uk/work#afkode">
-    <img src="assets/afkode.jpg" alt="afkode terminal overlay" width="260" />
+    <img src="assets/afkode.jpg" alt="afkode terminal overlay" height="150" />
   </a>
   <a href="https://elektrothing.uk/work#dot">
-    <img src="assets/dot.jpg" alt="dot menu bar desktop pet" width="260" />
+    <img src="assets/dot.jpg" alt="dot menu bar desktop pet" height="150" />
   </a>
   <a href="https://elektrothing.uk/work#trinkt">
-    <img src="assets/trinkt.jpg" alt="Trinkt generative art gifting app" width="260" />
+    <img src="assets/trinkt.jpg" alt="Trinkt generative art gifting app" height="150" />
   </a>
 </p>
 
