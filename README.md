@@ -1,4 +1,4 @@
-<p align="left">
+<p>
   <a href="https://elektrothing.uk"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/elektrothing-logo-dark.png" />
     <img src="assets/elektrothing-logo.png" alt="elektroThing" width="96" />
@@ -7,62 +7,29 @@
 
 # Jason Too
 
-I build hardware, software, and ML products from the ground up.
+I build things at the edges of **software, AI, and hardware**.
 
-I'm an Information and Computer Engineer based in Cambridge, UK. My work moves between PCB design, firmware, desktop apps, developer tools, and edge AI systems. I like projects where the hardware constraints shape the software, and where the software makes the hardware easier to inspect, debug, and use.
+I'm an engineer in Cambridge, UK, and the founder of [elektroThing](https://elektrothing.uk). I like tools that make complex systems easier to understand, and small products that feel personal to use.
 
-- Founder of [elektroThing](https://elektrothing.uk)
-- MEng from the University of Cambridge
-- Open-source hardware, local-first AI tools, desktop apps, and embedded systems
+## What I'm making
 
-## Hardware Projects
+- **[Patchly](https://patchly.cc)** is a shipped developer tool for production errors. It groups related failures, reads the relevant GitHub source, and suggests fixes with AI. [Explore the code →](https://github.com/tooyipjee/patchly)
+- **[Trinkt](https://trinkt.co)** is a social app for sending procedurally generated art to close friends: a small way to say “thinking of you.” [Explore the code →](https://github.com/tooyipjee/trinkt)
+- **[ollamacode](https://github.com/tooyipjee/ollamacode_cli)** explores local-first AI for coding. It uses Ollama and can work with files and commands without cloud API keys.
 
-<p>
-  <a href="https://elektrothing.uk/work#spark-analyzer"><img src="assets/spark-analyzer.jpg" alt="Spark Analyzer USB-C PD analyzer" height="120" /></a>
-  <a href="https://elektrothing.uk/work#tracer"><img src="assets/tracer.png" alt="Tracer low-power wearable sensor board" height="120" /></a>
-  <a href="https://elektrothing.uk/work#plant-bot"><img src="assets/plant-bot.png" alt="Plant-Bot solar-powered plant monitoring board" height="120" /></a>
-  <a href="https://elektrothing.uk/work#flora"><img src="assets/flora.png" alt="FLORA solar garden weather station" height="120" /></a>
-  <a href="https://elektrothing.uk/work#ds-pi"><img src="assets/ds-pi.png" alt="DS-Pi RP2040 audio DSP board" height="120" /></a>
-</p>
+I'm especially interested in **AI agents and developer tools**, local-first software, and consumer products that make technology feel a little more human.
 
-| Project | What it is | Links |
-|:--|:--|:--|
-| **Spark Analyzer** | Open-source USB-C PD analyzer and programmable power supply built on ESP32-C3. It can set custom voltages, monitor current draw over WiFi/BLE, and help debug USB-C power behavior without guessing. | [Site](https://elektrothing.uk/work#spark-analyzer) · [GitHub](https://github.com/tooyipjee/Spark-Analyzer) |
-| **Tracer** | Ultra-low-power IMU tracker for wearables and motion sensing. Designed around long battery life, compact hardware, and TinyML-ready firmware. | [Site](https://elektrothing.uk/work#tracer) |
-| **Plant-Bot** | Solar-powered plant monitoring and automated watering system with capacitive soil sensing, environmental monitoring, WiFi alerts, and a pump driver. | [Site](https://elektrothing.uk/work#plant-bot) |
-| **FLORA** | Solar ESP32 garden weather station with LoRa, soil moisture sensing, temperature/humidity monitoring, and long-range reporting for remote gardens. | [Site](https://elektrothing.uk/work#flora) |
-| **DS-Pi** | RP2040 audio DSP board with an audio codec, headphone amp, and prototyping-friendly I/O for effects and signal-processing experiments. | [Site](https://elektrothing.uk/work#ds-pi) · [GitHub](https://github.com/tooyipjee/DS-Pi) |
+## From the workbench
 
-## Software & AI Projects
+Hardware is still part of how I think. **[Spark Analyzer](https://elektrothing.uk/work#spark-analyzer)** is an open-source USB-C Power Delivery analyzer and programmable power supply; **[DS-Pi](https://elektrothing.uk/work#ds-pi)** is an RP2040 audio DSP board for signal-processing experiments. There's more embedded and hardware work in the [elektroThing project archive](https://elektrothing.uk/work).
 
 <p>
-  <a href="https://elektrothing.uk/work#codekeep"><img src="assets/codekeep.png" alt="codekeep terminal roguelike deckbuilder" height="95" /></a>
-  <a href="https://elektrothing.uk/work#ollamacode"><img src="assets/ollamacode.png" alt="ollamacode local AI coding CLI" height="95" /></a>
-  <a href="https://elektrothing.uk/work#afkode"><img src="assets/afkode.jpg" alt="afkode terminal overlay" height="95" /></a>
-  <a href="https://elektrothing.uk/work#dot"><img src="assets/dot.jpg" alt="dot menu bar desktop pet" height="95" /></a>
-  <a href="https://elektrothing.uk/work#trinkt"><img src="assets/trinkt.jpg" alt="Trinkt generative art gifting app" height="95" /></a>
+  <a href="https://elektrothing.uk/work#spark-analyzer"><img src="assets/spark-analyzer.jpg" alt="Spark Analyzer USB-C Power Delivery board" height="120" /></a>
+  <a href="https://elektrothing.uk/work#ds-pi"><img src="assets/ds-pi.png" alt="DS-Pi audio DSP board" height="120" /></a>
 </p>
 
-| Project | What it is | Links |
-|:--|:--|:--|
-| **codekeep** | Terminal roguelike deckbuilder built with Ink/React. It reads local git history and turns development activity into game state. | [Site](https://elektrothing.uk/work#codekeep) · [GitHub](https://github.com/tooyipjee/codekeep) |
-| **ollamacode** | Offline AI coding CLI powered by Ollama. It can work with files and commands directly without cloud API keys. | [Site](https://elektrothing.uk/work#ollamacode) · [GitHub](https://github.com/tooyipjee/ollamacode_cli) |
-| **afkode** | Frameless terminal overlay with a global hotkey, tabs, shell configuration, and cross-platform desktop packaging. | [Site](https://elektrothing.uk/work#afkode) · [GitHub](https://github.com/tooyipjee/afkode) |
-| **dot** | Menu bar desktop pet built with Tauri v2 and Rust, with local persistence, achievements, and a small canvas UI. | [Site](https://elektrothing.uk/work#dot) · [GitHub](https://github.com/tooyipjee/dot) |
-| **Trinkt** | Social web app for sending procedurally generated art to friends, built around small private gestures rather than public metrics. | [Site](https://elektrothing.uk/work#trinkt) |
+## Let's make something together
 
-## Skills & Tools
+Working on an agent, a developer tool, a local-first AI product, a thoughtful consumer app, or interesting hardware? **[Email me](mailto:hello@elektrothing.uk)** about collaborating.
 
-| Area | Stack |
-|:--|:--|
-| Embedded systems | STM32, ESP32, RP2040, FreeRTOS, LoRaWAN, BLE, power budgets, sensors |
-| Hardware design | KiCad, Altium, Fusion 360, 3D printing, small-batch manufacturing |
-| Product software | TypeScript, React, Next.js, Electron, Tauri, Rust, CLI tools |
-| AI & ML | Python, PyTorch, TensorFlow Lite, TinyML, OpenCV, local model tooling |
-| Data | Pandas, NumPy, SciPy, scikit-learn |
-| Delivery | Docker, CI/CD, Linux, documentation, crowdfunding |
-
----
-
-[![Website](https://img.shields.io/badge/Website-elektroThing.uk-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elektrothing.uk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jason%20Too-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-too/)
+[Portfolio](https://elektrothing.uk) · [GitHub](https://github.com/tooyipjee) · [LinkedIn](https://www.linkedin.com/in/jason-too/)
