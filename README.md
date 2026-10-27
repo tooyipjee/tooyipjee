@@ -13,7 +13,7 @@ I'm an engineer in Cambridge, UK, and the founder of [elektroThing](https://elek
 
 ## What I'm making
 
-- **[Patchly](https://patchly.cc)** is a shipped developer tool for production errors. It groups related failures, reads the relevant GitHub source, and suggests fixes with AI.
+- **[Patchly](https://patchly.cc)** is a shipped developer tool for production errors. It catches production crashes, explains the root cause in plain English, and opens a draft pull request with the fix.
 - **[Trinkt](https://trinkt.co)** is a social app for sending procedurally generated art to close friends: a small way to say “thinking of you.”
 - **[ollamacode](https://github.com/tooyipjee/ollamacode_cli)** explores local-first AI for coding. It uses Ollama and can work with files and commands without cloud API keys.
 
